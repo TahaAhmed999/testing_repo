@@ -1,2 +1,0 @@
-def getMeOne():
-    return "One"
