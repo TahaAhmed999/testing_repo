@@ -1,0 +1,2 @@
+def getMeOne():
+    return "One"
